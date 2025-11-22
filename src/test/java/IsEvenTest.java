@@ -1,8 +1,9 @@
+import de.ba.experiment.IsEven;
 import org.junit.Test;
 
 import static org.junit.Assert.assertTrue;
 
-public class isEvenTest {
+public class IsEvenTest {
 
     @Test
     public void twoIsEven() {
@@ -10,9 +11,6 @@ public class isEvenTest {
     }
 
     // TODO: weitere Tests ergänzen:
-    //  - ungerade Zahl
-    //  - 0
-    //  - negative gerade Zahl
-    //  - negative ungerade Zahl
+
 }
 
