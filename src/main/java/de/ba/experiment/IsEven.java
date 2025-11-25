@@ -3,7 +3,9 @@ package de.ba.experiment;
 public class IsEven {
 
     /**
-     * Gibt true zurück, wenn n gerade ist, sonst false.
+     * Prüft, ob eine gegebene Zahl gerade ist.
+     *
+     * Gibt true zurück, wenn n gerade ist, ansonsten false.
      *
      * @param n ganze Zahl, die geprüft werden soll
      * @return true, wenn n gerade ist, sonst false
