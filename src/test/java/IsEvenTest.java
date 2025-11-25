@@ -11,7 +11,6 @@ public class IsEvenTest {
         assertTrue(IsEven.isEven(2));
     }
 
-    // ab hier sollen die Studierenden selbst test schreiben
     @Test
     public void threeIsNotEven() {
         assertFalse(IsEven.isEven(3));
@@ -31,5 +30,5 @@ public class IsEvenTest {
     public void negativThreeIsNotEven(){
         assertFalse(IsEven.isEven(-3));
     }
-}
 
+}

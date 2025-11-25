@@ -6,8 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="is-even-task2" />
-        <module name="Neuer Ordner" />
+        <module name="IsEven-task" />
       </profile>
     </annotationProcessing>
   </component>
